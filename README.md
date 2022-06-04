@@ -13,5 +13,9 @@ The links to the datasets that will be used in the analysis are listed below:
 2. https://www.kaggle.com/datasets/shivamb/netflix-shows
 3. https://www.kaggle.com/code/kazimiqbal/netflix-stock-price/data
 4. https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/
+5. https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
+6. https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv
+7. https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies?select=titles.csv
+8. https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv
 
 It is important to note that some of the datasets found on Kaggle do not have their sources listed and thus the information available might not be completely reliable.
